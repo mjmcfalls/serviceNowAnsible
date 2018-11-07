@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_rest_message">
     <sys_rest_message action="INSERT_OR_UPDATE">
-        <access>package_private</access>
+        <access>public</access>
         <authentication_type>no_authentication</authentication_type>
         <basic_auth_password/>
         <basic_auth_profile/>
@@ -15,14 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-11-07 13:08:52</sys_created_on>
         <sys_id>e26a5b7a4f212300ccb7f9aba310c7dd</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>AnsibleRestOut</sys_name>
         <sys_package display_value="AnsibleAutomation" source="x_284640_ansibleau">9d3ad37a4f212300ccb7f9aba310c74f</sys_package>
         <sys_policy/>
         <sys_scope display_value="AnsibleAutomation">9d3ad37a4f212300ccb7f9aba310c74f</sys_scope>
         <sys_update_name>sys_rest_message_e26a5b7a4f212300ccb7f9aba310c7dd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-07 13:21:02</sys_updated_on>
+        <sys_updated_on>2018-11-07 14:53:03</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message>
