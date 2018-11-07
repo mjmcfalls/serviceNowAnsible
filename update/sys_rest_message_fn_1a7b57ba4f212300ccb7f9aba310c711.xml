@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{"extra_vars": {&#13;
+"amiId": "ami-0303c7b2e7066b60d",&#13;
+"aws_region": "us-east-2",&#13;
+"aws_zone": "us-east-2c",&#13;
+"eckeyname": "msj-ansible-ec2",&#13;
+"groupName": "web-dmz",&#13;
+"instanceCount": 2,&#13;
+"instanceType": "t2.micro",&#13;
+"usevar": "AnsibleTest",&#13;
+"vpcsubnetid": "subnet-49214704"&#13;
+}}</content>
+        <function_name>POST</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>AnsibleRestOut [ POST ]</qualified_name>
+        <rest_endpoint/>
+        <rest_message display_value="AnsibleRestOut">e26a5b7a4f212300ccb7f9aba310c7dd</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-07 13:14:07</sys_created_on>
+        <sys_id>1a7b57ba4f212300ccb7f9aba310c711</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>POST</sys_name>
+        <sys_package display_value="AnsibleAutomation" source="x_284640_ansibleau">9d3ad37a4f212300ccb7f9aba310c74f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AnsibleAutomation">9d3ad37a4f212300ccb7f9aba310c74f</sys_scope>
+        <sys_update_name>sys_rest_message_fn_1a7b57ba4f212300ccb7f9aba310c711</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-07 13:21:04</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
